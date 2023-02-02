@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "app-firebase-auth",
-    "slug": "app-firebase-auth",
+    "slug": "app-auth",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -28,6 +28,12 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "b7e1092b-8b03-4f22-8972-215431de529f"
+      }
+    },
+    "owner": "marcellosa"
   }
 }

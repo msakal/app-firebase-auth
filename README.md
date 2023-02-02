@@ -24,3 +24,12 @@
 
 - https://console.firebase.google.com/project/app-autenticacao-d25d1/overview
   - inserido firebaseConfig (gitignore) - Senac2022
+
+## EXPO EAS
+
+- https://expo.dev/accounts/marcellosa/projects/app-auth?created_on_web=true
+- Link an existing Expo codebase
+
+npm install --global eas-cli
+
+eas init --id b7e1092b-8b03-4f22-8972-215431de529f
