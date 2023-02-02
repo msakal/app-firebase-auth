@@ -12,7 +12,8 @@
       "backgroundColor": "#ffffff"
     },
     "updates": {
-      "fallbackToCacheTimeout": 0
+      "fallbackToCacheTimeout": 0,
+      "url": "https://u.expo.dev/b7e1092b-8b03-4f22-8972-215431de529f"
     },
     "assetBundlePatterns": [
       "**/*"
@@ -34,6 +35,9 @@
         "projectId": "b7e1092b-8b03-4f22-8972-215431de529f"
       }
     },
-    "owner": "marcellosa"
+    "owner": "marcellosa",
+    "runtimeVersion": {
+      "policy": "appVersion"
+    }
   }
 }
