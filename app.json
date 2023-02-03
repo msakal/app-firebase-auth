@@ -4,10 +4,10 @@
     "slug": "app-auth",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/icon.png",
+    "icon": "./assets/lock.png",
     "userInterfaceStyle": "light",
     "splash": {
-      "image": "./assets/splash.png",
+      "image": "./assets/splash-auth.png",
       "resizeMode": "contain",
       "backgroundColor": "#ffffff"
     },
@@ -15,15 +15,13 @@
       "fallbackToCacheTimeout": 0,
       "url": "https://u.expo.dev/b7e1092b-8b03-4f22-8972-215431de529f"
     },
-    "assetBundlePatterns": [
-      "**/*"
-    ],
+    "assetBundlePatterns": ["**/*"],
     "ios": {
       "supportsTablet": true
     },
     "android": {
       "adaptiveIcon": {
-        "foregroundImage": "./assets/adaptive-icon.png",
+        "foregroundImage": "./assets/adaptive-lock.png",
         "backgroundColor": "#FFFFFF"
       },
       "package": "com.marcellosa.appauth"
